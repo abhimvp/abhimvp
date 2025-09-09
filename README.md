@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek (Abhi)
-- 👀 I’m interested in web development , machine-learning , AI Agents , Python , Typescript
-- 🌱 I’m currently learning AI Agents & frameworks , Python backend frameworks , GO
-- 💞️ I’m looking to collaborate on building cool web apps, contributing to data science projects
+- 👀 I’m interested in web development(React & Next.js) , AI Agents(Langchain - LangGraph) , Python , Typescript
+- 🌱 I’m currently learning AI Agents & frameworks , Python backend frameworks , GO , NodeJs
+- 💞️ I’m looking to collaborate on building cool web apps, contributing to projects
 - 📫 How to reach me : Email - abhishekreddyboddu1@gmail.com
 - 😄 Pronouns: He/Him
